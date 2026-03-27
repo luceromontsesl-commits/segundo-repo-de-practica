@@ -3,4 +3,3 @@ crear un repositorio (en GitHub),
 clonado el repositorio en esta plataforma,
 crear branch,
 crear 2 commits de 1 archivo cada uno (txt)
-
